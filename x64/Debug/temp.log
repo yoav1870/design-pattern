@@ -1,0 +1,18 @@
+﻿  command.cpp
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\myController.h(45,13): warning C4150: deletion of pointer to incomplete type 'command'; no destructor called
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\myController.h(19,7): message : see declaration of 'command'
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\command.cpp(6,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\command.cpp(81,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\command.cpp(90,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\command.cpp(110,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\command.cpp(124,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\myController.h(45,13): warning C4150: deletion of pointer to incomplete type 'command'; no destructor called
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\myController.h(19,7): message : see declaration of 'command'
+  maze2d.cpp
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\maze2d.cpp(28,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\maze2d.cpp(29,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\maze2d.cpp(30,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\temp\maze2d.cpp(31,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  temp.vcxproj -> C:\Users\yoav1\OneDrive\Desktop\לימודים\תכנות 4\prog\Project1\x64\Debug\temp.exe
